@@ -1,3 +1,3 @@
 # Screen
 
-A total of three screen animations when scrolling down
+아래로 스크롤 할 때 변하는 세 가지 스크린 화면
